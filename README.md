@@ -4,7 +4,7 @@
 
 </div>
 
-<video src='https://video.twimg.com/ext_tw_video/1161973834762924034/pu/vid/400x224/I4gYE5Bf0tpgAvLz.mp4' width=180> </video> 
+<video src='https://user-images.githubusercontent.com/61950868/164333885-d9d4261b-d59d-488a-835f-69384e587ce5.mp4' width=180> </video> 
 
 - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 - 📝 I regularly write articles on 
