@@ -1,8 +1,11 @@
 <h2 align="center">Hello there! 🚀 I'm Omer</h1>
 <div align="center">
+
+https://user-images.githubusercontent.com/61950868/164334296-60a33e86-84d1-41f7-9531-0ca8739dd2ec.mp4
+
+
 </div>
 
-https://user-images.githubusercontent.com/61950868/164333885-d9d4261b-d59d-488a-835f-69384e587ce5.mp4
 - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 - 📝 I regularly write articles on 
 - 🚀 My personal page 
