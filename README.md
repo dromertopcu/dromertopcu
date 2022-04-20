@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm Omer</h1>
-<div align="center"><img src="!https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif" width="280" height="230"  /> </div>
+<div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif" width="280" height="230"  /> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="dromertopcu" /></a> </p>
 <p>
