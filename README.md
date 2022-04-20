@@ -24,9 +24,9 @@
 <br>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164341323-f5ee241e-919b-4200-b19c-8823a08dd55d.gif"  /> </div>
-
+<br>
 <div>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dromertopcu&show_icons=true&locale=en&layout=compact" alt="dromertopcu" />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dromertopcu&show_icons=true&locale=en&layout=compact%22%20alt=%22dromertopcu%22" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dromertopcu&show_icons=true&locale=en" alt="dromertopcu" /></p>
 </div>
 <p align ="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dromertopcu&" alt="dromertopcu" /></p>
