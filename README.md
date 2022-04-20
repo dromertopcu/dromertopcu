@@ -28,3 +28,5 @@
 </div>
 <p align ="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dromertopcu&" alt="dromertopcu" /></p>
 
+<div align="center"><img src="https://user-images.githubusercontent.com/61950868/164341323-f5ee241e-919b-4200-b19c-8823a08dd55d.gif"  /> </div>
+
