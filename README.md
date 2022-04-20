@@ -1,8 +1,8 @@
 <h2 align="center">Hello there! 🚀 I'm Omer</h1>
 <div align="center">
 
+<video src='https://video.twimg.com/ext_tw_video/1161973834762924034/pu/vid/400x224/I4gYE5Bf0tpgAvLz.mp4' width=180> </video> 
 </div>
-<video src='https://video.twimg.com/ext_tw_video/1161973834762924034/pu/vid/400x224/I4gYE5Bf0tpgAvLz.mp4' width=180/>
 
 - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 - 📝 I regularly write articles on 
