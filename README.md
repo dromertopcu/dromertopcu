@@ -1,12 +1,8 @@
 <h2 align="center">Hello there! 🚀 I'm Omer</h1>
-<div align="center">
+<div align="center"><img src="![data](https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif)" width="280" height="230"  /> </div>
 
-
-</div>
-
-![data](https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif)
-
-<video src='https://user-images.githubusercontent.com/61950868/164333885-d9d4261b-d59d-488a-835f-69384e587ce5.mp4' width=180> </video> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="dromertopcu" /></a> </p>
+<p>
 
 - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 - 📝 I regularly write articles on 
