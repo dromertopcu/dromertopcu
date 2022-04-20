@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! 🚀 I'm Omer</h1>
 <div align="center">
-<video src='https://gfycat.com/yellowishfrankbaldeagle' width=180/>
+<video src='https://video.twimg.com/ext_tw_video/1161973834762924034/pu/vid/400x224/I4gYE5Bf0tpgAvLz.mp4?tag=10' width=180/>
 </div>
 
 - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
