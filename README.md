@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/dromertopcu" target="blank"><img src="https://img.shields.io/twitter/follow/dromertopcu?logo=twitter&style=for-the-badge" alt="dromertopcu" /></a> </p>
 <br>
 <p>
+  
 - 👨🏼‍💻 I’m currently working with **Python and C\#**
   
 - 💬 Ask me about **Python, R and C\#**
@@ -17,7 +18,7 @@
 - 🦸🏼‍♂️ I'm currently learning **Data Science's Frameworks and Game Development**
   
 - 📫 How to reach me **omertopcu@me.com**
- </p>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><br>
 <a href="https://twitter.com/dromertopcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dromertopcu" height="30" width="40" /></a>
