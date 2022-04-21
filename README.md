@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 🙌, I'm Ömer Topcu</h1>
+<h1 align="center">Hello there 🙌 I'm Ömer Topcu</h1>
 <h2 align="center">A passionate data scientist from Turkey</h2>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif"  /> </div>
