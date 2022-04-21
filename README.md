@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Ömer Topcu</h1>
+<h1 align="center">Hello there 🙌, I'm Ömer Topcu</h1>
 <h2 align="center">A passionate data scientist from Turkey</h2>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif"  /> </div>
@@ -9,6 +9,15 @@
 <br>
 <p align="left"> <a href="https://twitter.com/dromertopcu" target="blank"><img src="https://img.shields.io/twitter/follow/dromertopcu?logo=twitter&style=for-the-badge" alt="dromertopcu" /></a> </p>
 <br>
+<p>
+- 👨🏼‍💻 I’m currently working with **Python and C#**
+
+- 💬 Ask me about **Python, R and C#**
+  
+- 🦸🏼‍♂️ I'm currently learning **Data Science's Frameworks and Game Development**
+  
+- 📫 How to reach me **omertopcu@me.com**
+ </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><br>
 <a href="https://twitter.com/dromertopcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dromertopcu" height="30" width="40" /></a>
