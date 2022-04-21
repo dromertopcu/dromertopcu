@@ -3,7 +3,7 @@
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif"  /> </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dromertopcu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars&margin-w=5&no-bg=true" alt="dromertopcu" /></a> </p>
 <p>
 
