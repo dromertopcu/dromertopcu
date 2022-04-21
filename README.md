@@ -3,7 +3,7 @@
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif"  /> </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars,Joined&margin-w=5&no-bg=true" alt="dromertopcu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dromertopcu&title=Commit,MultiLanguage,Repositories,Stars&margin-w=5&no-bg=true" alt="dromertopcu" /></a> </p>
 <p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dromertopcu&label=Profile%20views&color=0e75b6&style=flat" alt="dromertopcu" /> </p>
