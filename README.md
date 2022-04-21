@@ -15,7 +15,7 @@
   
 - 💬 Ask me about **Python, R and C\#**
   
-- 🦸🏼‍♂️ I'm currently learning **Data Science's Frameworks and Game Development**
+- 🦸🏼‍♂️ I'm currently learning **Data Science Frameworks and Game Development**
   
 - 📫 How to reach me **omertopcu@me.com**
 </p>
