@@ -11,7 +11,7 @@
 <br>
 <p>
 - 👨🏼‍💻 I’m currently working with **Python and C\#**
-
+  
 - 💬 Ask me about **Python, R and C\#**
   
 - 🦸🏼‍♂️ I'm currently learning **Data Science's Frameworks and Game Development**
