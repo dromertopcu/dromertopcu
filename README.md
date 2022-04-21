@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/dromertopcu" target="blank"><img src="https://img.shields.io/twitter/follow/dromertopcu?logo=twitter&style=for-the-badge" alt="dromertopcu" /></a> </p>
 <br>
 <p>
-- 👨🏼‍💻 I’m currently working with **Python and C#**
+- 👨🏼‍💻 I’m currently working with **Python and C\#**
 
-- 💬 Ask me about **Python, R and C#**
+- 💬 Ask me about **Python, R and C\#**
   
 - 🦸🏼‍♂️ I'm currently learning **Data Science's Frameworks and Game Development**
   
