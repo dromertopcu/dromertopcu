@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 🙌 I'm Ömer Topcu</h1>
-<h2 align="center">A passionate data scientist from Istanbul, Turkey</h2>
+<h2 align="center">A passionate game developer and data scientist from Istanbul, Turkey</h2>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/61950868/164337468-8c18459d-25ad-4c33-884b-17d26d401c06.gif"  /> </div>
 
@@ -11,11 +11,11 @@
 <br>
 <p>
   
-- 👨🏼‍💻 I’m currently working with **Python and C\#**
+- 👨🏼‍💻 I’m currently working with **C\# and Python**
   
-- 💬 Ask me about **Python, R and C\#**
+- 💬 Ask me about **C\#, Python and R**
   
-- 🦸🏼‍♂️ I'm currently learning **Data Science Frameworks and Game Development**
+- 🦸🏼‍♂️ I'm currently working on **Unity Mobile Game Development**
   
 - 📫 How to reach me **omertopcu@me.com**
 </p>
