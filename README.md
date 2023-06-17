@@ -11,11 +11,11 @@
 <br>
 <p>
   
-- 👨🏼‍💻 I’m currently working with **C\# and Python**
-  
-- 💬 Ask me about **C\#, Python and R**
-  
 - 🦸🏼‍♂️ I'm currently working on **Unity Mobile Game Development**
+  
+- 👨🏼‍💻 I’m currently working with **C\#, Python and Java**
+  
+- 💬 Ask me about **C\#, Python and Java**
   
 - 📫 How to reach me **omertopcu@me.com**
 </p>
